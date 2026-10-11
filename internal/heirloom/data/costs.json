@@ -1,0 +1,1242 @@
+{
+  "_note": "Purchase amounts need verification against current in-game vendor prices. Amount 0 means currency source is known but exact cost is unverified. See wowhead.com/guide/collections/heirloom-list for current prices.",
+  "version": "12.0.1",
+  "updated": "2026-04",
+  "heirlooms": [
+    {
+      "id": 1,
+      "name": "Dignified Headmaster's Charge",
+      "slot": "two_hand",
+      "armor_type": "staff",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 2,
+      "name": "Reforged Truesilver Champion",
+      "slot": "two_hand",
+      "armor_type": "sword",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 3,
+      "name": "Burnished Warden Staff",
+      "slot": "two_hand",
+      "armor_type": "staff",
+      "set": "Burnished Valor",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 4,
+      "name": "Charmed Ancient Bone Bow",
+      "slot": "ranged",
+      "armor_type": "bow",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 663,
+      "name": "Champion Herod's Shoulder",
+      "slot": "shoulder",
+      "armor_type": "plate",
+      "set": "Herod",
+      "is_weapon": false,
+      "purchase_options": [
+        { "currency": "champions_seal", "amount": 25 },
+        { "currency": "gold", "amount": 0 }
+      ]
+    },
+    {
+      "id": 664,
+      "name": "Bloodied Arcanite Reaper",
+      "slot": "two_hand",
+      "armor_type": "axe",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 665,
+      "name": "Venerable Dal'Rend's Sacred Charge",
+      "slot": "main_hand",
+      "armor_type": "sword",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 666,
+      "name": "Exceptional Stormshroud Shoulders",
+      "slot": "shoulder",
+      "armor_type": "leather",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 667,
+      "name": "Polished Spaulders of Valor",
+      "slot": "shoulder",
+      "armor_type": "plate",
+      "set": "Polished Valor",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 668,
+      "name": "Stained Shadowcraft Spaulders",
+      "slot": "shoulder",
+      "armor_type": "leather",
+      "set": "Stained Shadowcraft",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 669,
+      "name": "Balanced Heartseeker",
+      "slot": "main_hand",
+      "armor_type": "dagger",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 670,
+      "name": "Preened Ironfeather Shoulders",
+      "slot": "shoulder",
+      "armor_type": "leather",
+      "set": "Preened Ironfeather",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 671,
+      "name": "Discerning Eye of the Beast",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 672,
+      "name": "Mystical Pauldrons of Elements",
+      "slot": "shoulder",
+      "armor_type": "mail",
+      "set": "Mystical Elements",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 673,
+      "name": "Tattered Dreadmist Mantle",
+      "slot": "shoulder",
+      "armor_type": "cloth",
+      "set": "Tattered Dreadmist",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 674,
+      "name": "Lasting Feralheart Spaulders",
+      "slot": "shoulder",
+      "armor_type": "leather",
+      "set": "Lasting Feralheart",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 675,
+      "name": "Devout Aurastone Hammer",
+      "slot": "main_hand",
+      "armor_type": "mace",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 676,
+      "name": "Sharpened Scarlet Kris",
+      "slot": "main_hand",
+      "armor_type": "dagger",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 677,
+      "name": "Upgraded Dwarven Hand Cannon",
+      "slot": "ranged",
+      "armor_type": "gun",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 678,
+      "name": "The Blessed Hammer of Grace",
+      "slot": "main_hand",
+      "armor_type": "mace",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [
+        { "currency": "champions_seal", "amount": 40 },
+        { "currency": "gold", "amount": 0 }
+      ]
+    },
+    {
+      "id": 679,
+      "name": "Inherited Insignia of the Horde",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "Inherited Insignia",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 680,
+      "name": "Grand Staff of Jordan",
+      "slot": "two_hand",
+      "armor_type": "staff",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 681,
+      "name": "Battleworn Thrash Blade",
+      "slot": "main_hand",
+      "armor_type": "sword",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 682,
+      "name": "Swift Hand of Justice",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 683,
+      "name": "Exquisite Sunderseer Mantle",
+      "slot": "shoulder",
+      "armor_type": "cloth",
+      "set": "Exquisite Sunderseer",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 684,
+      "name": "Strengthened Stockade Pauldrons",
+      "slot": "shoulder",
+      "armor_type": "plate",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 685,
+      "name": "Pristine Lightforge Spaulders",
+      "slot": "shoulder",
+      "armor_type": "plate",
+      "set": "Pristine Lightforge",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 686,
+      "name": "Prized Beastmaster's Mantle",
+      "slot": "shoulder",
+      "armor_type": "mail",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 687,
+      "name": "Aged Pauldrons of The Five Thunders",
+      "slot": "shoulder",
+      "armor_type": "mail",
+      "set": "Five Thunders",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 688,
+      "name": "Inherited Insignia of the Alliance",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "Inherited Insignia",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 689,
+      "name": "Dread Pirate Ring",
+      "slot": "finger",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": []
+    },
+    {
+      "id": 690,
+      "name": "Tattered Dreadmist Robe",
+      "slot": "chest",
+      "armor_type": "cloth",
+      "set": "Tattered Dreadmist",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 691,
+      "name": "Preened Ironfeather Breastplate",
+      "slot": "chest",
+      "armor_type": "leather",
+      "set": "Preened Ironfeather",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 692,
+      "name": "Stained Shadowcraft Tunic",
+      "slot": "chest",
+      "armor_type": "leather",
+      "set": "Stained Shadowcraft",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 693,
+      "name": "Mystical Vest of Elements",
+      "slot": "chest",
+      "armor_type": "mail",
+      "set": "Mystical Elements",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 694,
+      "name": "Polished Breastplate of Valor",
+      "slot": "chest",
+      "armor_type": "plate",
+      "set": "Polished Valor",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 695,
+      "name": "Repurposed Lava Dredger",
+      "slot": "two_hand",
+      "armor_type": "mace",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 696,
+      "name": "Venerable Mass of McGowan",
+      "slot": "main_hand",
+      "armor_type": "mace",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 697,
+      "name": "Champion's Deathdealer Breastplate",
+      "slot": "chest",
+      "armor_type": "plate",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [
+        { "currency": "champions_seal", "amount": 25 },
+        { "currency": "gold", "amount": 0 }
+      ]
+    },
+    {
+      "id": 698,
+      "name": "Inherited Cape of the Black Baron",
+      "slot": "back",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 699,
+      "name": "Ancient Bloodmoon Cloak",
+      "slot": "back",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 700,
+      "name": "Worn Stoneskin Gargoyle Cape",
+      "slot": "back",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 701,
+      "name": "Preened Wildfeather Leggings",
+      "slot": "legs",
+      "armor_type": "leather",
+      "set": "Preened Wildfeather",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 702,
+      "name": "Polished Legplates of Valor",
+      "slot": "legs",
+      "armor_type": "plate",
+      "set": "Polished Valor",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 703,
+      "name": "Tarnished Leggings of Destruction",
+      "slot": "legs",
+      "armor_type": "plate",
+      "set": "Tarnished",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 704,
+      "name": "Mystical Kilt of Elements",
+      "slot": "legs",
+      "armor_type": "mail",
+      "set": "Mystical Elements",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 705,
+      "name": "Stained Shadowcraft Pants",
+      "slot": "legs",
+      "armor_type": "leather",
+      "set": "Stained Shadowcraft",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 706,
+      "name": "Polished Helm of Valor",
+      "slot": "head",
+      "armor_type": "plate",
+      "set": "Polished Valor",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 707,
+      "name": "Tattered Dreadmist Leggings",
+      "slot": "legs",
+      "armor_type": "cloth",
+      "set": "Tattered Dreadmist",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 708,
+      "name": "Preened Tribal War Feathers",
+      "slot": "head",
+      "armor_type": "leather",
+      "set": "Preened Tribal",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 709,
+      "name": "Tattered Dreadmist Mask",
+      "slot": "head",
+      "armor_type": "cloth",
+      "set": "Tattered Dreadmist",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 710,
+      "name": "Stained Shadowcraft Cap",
+      "slot": "head",
+      "armor_type": "leather",
+      "set": "Stained Shadowcraft",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 711,
+      "name": "Tarnished Raging Berserker's Helm",
+      "slot": "head",
+      "armor_type": "plate",
+      "set": "Tarnished",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 712,
+      "name": "Mystical Coif of Elements",
+      "slot": "head",
+      "armor_type": "mail",
+      "set": "Mystical Elements",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 713,
+      "name": "Burnished Helm of Might",
+      "slot": "head",
+      "armor_type": "plate",
+      "set": "Burnished Might",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 714,
+      "name": "Burnished Legplates of Might",
+      "slot": "legs",
+      "armor_type": "plate",
+      "set": "Burnished Might",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 715,
+      "name": "Burnished Breastplate of Might",
+      "slot": "chest",
+      "armor_type": "plate",
+      "set": "Burnished Might",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 716,
+      "name": "Burnished Pauldrons of Might",
+      "slot": "shoulder",
+      "armor_type": "plate",
+      "set": "Burnished Might",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 717,
+      "name": "Bloodsoaked Skullforge Reaver",
+      "slot": "two_hand",
+      "armor_type": "axe",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 718,
+      "name": "Ripped Sandstorm Cloak",
+      "slot": "back",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 719,
+      "name": "Weathered Observer's Shield",
+      "slot": "off_hand",
+      "armor_type": "shield",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 720,
+      "name": "Brawler's Razor Claws",
+      "slot": "main_hand",
+      "armor_type": "fist",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": []
+    },
+    {
+      "id": 721,
+      "name": "Musty Tome of the Lost",
+      "slot": "off_hand",
+      "armor_type": "tome",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 722,
+      "name": "Inherited Mark of Tyranny",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 723,
+      "name": "Flamescarred Draconian Deflector",
+      "slot": "off_hand",
+      "armor_type": "shield",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 724,
+      "name": "Hellscream's Warbow",
+      "slot": "ranged",
+      "armor_type": "bow",
+      "set": "Hellscream's Horde",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 725,
+      "name": "Hellscream's Razor",
+      "slot": "main_hand",
+      "armor_type": "dagger",
+      "set": "Hellscream's Horde",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 726,
+      "name": "Hellscream's Doomblade",
+      "slot": "main_hand",
+      "armor_type": "sword",
+      "set": "Hellscream's Horde",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 727,
+      "name": "Hellscream's Warmace",
+      "slot": "main_hand",
+      "armor_type": "mace",
+      "set": "Hellscream's Horde",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 728,
+      "name": "Hellscream's Pig Sticker",
+      "slot": "two_hand",
+      "armor_type": "polearm",
+      "set": "Hellscream's Horde",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 729,
+      "name": "Hellscream's Cleaver",
+      "slot": "main_hand",
+      "armor_type": "axe",
+      "set": "Hellscream's Horde",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 730,
+      "name": "Hellscream's Decapitator",
+      "slot": "two_hand",
+      "armor_type": "axe",
+      "set": "Hellscream's Horde",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 731,
+      "name": "Hellscream's War Staff",
+      "slot": "two_hand",
+      "armor_type": "staff",
+      "set": "Hellscream's Horde",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 732,
+      "name": "Hellscream's Shield Wall",
+      "slot": "off_hand",
+      "armor_type": "shield",
+      "set": "Hellscream's Horde",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 733,
+      "name": "Hellscream's Tome of Destruction",
+      "slot": "off_hand",
+      "armor_type": "tome",
+      "set": "Hellscream's Horde",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 734,
+      "name": "Hellscream's Barrier",
+      "slot": "off_hand",
+      "armor_type": "shield",
+      "set": "Hellscream's Horde",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 735,
+      "name": "Hellscream's Warbow",
+      "slot": "ranged",
+      "armor_type": "bow",
+      "set": "Hellscream's Alliance",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 736,
+      "name": "Hellscream's Razor",
+      "slot": "main_hand",
+      "armor_type": "dagger",
+      "set": "Hellscream's Alliance",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 737,
+      "name": "Hellscream's Cleaver",
+      "slot": "main_hand",
+      "armor_type": "axe",
+      "set": "Hellscream's Alliance",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 738,
+      "name": "Hellscream's Pig Sticker",
+      "slot": "two_hand",
+      "armor_type": "polearm",
+      "set": "Hellscream's Alliance",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 739,
+      "name": "Hellscream's Barrier",
+      "slot": "off_hand",
+      "armor_type": "shield",
+      "set": "Hellscream's Alliance",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 740,
+      "name": "Hellscream's Warmace",
+      "slot": "main_hand",
+      "armor_type": "mace",
+      "set": "Hellscream's Alliance",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 741,
+      "name": "Hellscream's Tome of Destruction",
+      "slot": "off_hand",
+      "armor_type": "tome",
+      "set": "Hellscream's Alliance",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 742,
+      "name": "Hellscream's War Staff",
+      "slot": "two_hand",
+      "armor_type": "staff",
+      "set": "Hellscream's Alliance",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 743,
+      "name": "Hellscream's Doomblade",
+      "slot": "main_hand",
+      "armor_type": "sword",
+      "set": "Hellscream's Alliance",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 744,
+      "name": "Hellscream's Decapitator",
+      "slot": "two_hand",
+      "armor_type": "axe",
+      "set": "Hellscream's Alliance",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 745,
+      "name": "Hellscream's Shield Wall",
+      "slot": "off_hand",
+      "armor_type": "shield",
+      "set": "Hellscream's Alliance",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 746,
+      "name": "Hellscream's Warbow",
+      "slot": "ranged",
+      "armor_type": "bow",
+      "set": "Hellscream's Neutral",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 747,
+      "name": "Hellscream's Razor",
+      "slot": "main_hand",
+      "armor_type": "dagger",
+      "set": "Hellscream's Neutral",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 748,
+      "name": "Hellscream's Cleaver",
+      "slot": "main_hand",
+      "armor_type": "axe",
+      "set": "Hellscream's Neutral",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 749,
+      "name": "Hellscream's Pig Sticker",
+      "slot": "two_hand",
+      "armor_type": "polearm",
+      "set": "Hellscream's Neutral",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 750,
+      "name": "Hellscream's Barrier",
+      "slot": "off_hand",
+      "armor_type": "shield",
+      "set": "Hellscream's Neutral",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 751,
+      "name": "Hellscream's Warmace",
+      "slot": "main_hand",
+      "armor_type": "mace",
+      "set": "Hellscream's Neutral",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 752,
+      "name": "Hellscream's Tome of Destruction",
+      "slot": "off_hand",
+      "armor_type": "tome",
+      "set": "Hellscream's Neutral",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 753,
+      "name": "Hellscream's War Staff",
+      "slot": "two_hand",
+      "armor_type": "staff",
+      "set": "Hellscream's Neutral",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 754,
+      "name": "Hellscream's Doomblade",
+      "slot": "main_hand",
+      "armor_type": "sword",
+      "set": "Hellscream's Neutral",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 755,
+      "name": "Hellscream's Decapitator",
+      "slot": "two_hand",
+      "armor_type": "axe",
+      "set": "Hellscream's Neutral",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 756,
+      "name": "Hellscream's Shield Wall",
+      "slot": "off_hand",
+      "armor_type": "shield",
+      "set": "Hellscream's Neutral",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 770,
+      "name": "Eternal Will of the Martyr",
+      "slot": "neck",
+      "armor_type": "",
+      "set": "Eternal",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "love_token", "amount": 40 }]
+    },
+    {
+      "id": 771,
+      "name": "Eternal Emberfury Talisman",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "Eternal",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "burning_blossom", "amount": 350 }]
+    },
+    {
+      "id": 772,
+      "name": "Eternal Woven Ivy Necklace",
+      "slot": "neck",
+      "armor_type": "",
+      "set": "Eternal",
+      "is_weapon": false,
+      "purchase_options": [
+        { "currency": "brewfest_prize_ticket", "amount": 200 }
+      ]
+    },
+    {
+      "id": 773,
+      "name": "Eternal Horizon Choker",
+      "slot": "neck",
+      "armor_type": "",
+      "set": "Eternal",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "tricky_treat", "amount": 150 }]
+    },
+    {
+      "id": 774,
+      "name": "Eternal Amulet of the Redeemed",
+      "slot": "neck",
+      "armor_type": "",
+      "set": "Eternal",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "coin_of_ancestry", "amount": 25 }]
+    },
+    {
+      "id": 775,
+      "name": "Eternal Talisman of Evasion",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "Eternal",
+      "is_weapon": false,
+      "purchase_options": [
+        { "currency": "darkmoon_prize_ticket", "amount": 50 }
+      ]
+    },
+    {
+      "id": 776,
+      "name": "Pristine Lightforge Breastplate",
+      "slot": "chest",
+      "armor_type": "plate",
+      "set": "Pristine Lightforge",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 777,
+      "name": "Pristine Lightforge Legplates",
+      "slot": "legs",
+      "armor_type": "plate",
+      "set": "Pristine Lightforge",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 778,
+      "name": "Pristine Lightforge Helm",
+      "slot": "head",
+      "armor_type": "plate",
+      "set": "Pristine Lightforge",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 779,
+      "name": "Defending Champion",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "timewarped_badge", "amount": 1500 }]
+    },
+    {
+      "id": 780,
+      "name": "Returning Champion",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "timewarped_badge", "amount": 1500 }]
+    },
+    {
+      "id": 781,
+      "name": "Admiral Taylor's Loyalty Ring",
+      "slot": "finger",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 782,
+      "name": "Signet of the Third Fleet",
+      "slot": "finger",
+      "armor_type": "",
+      "set": "Third Fleet",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 783,
+      "name": "Captain Sander's Returned Band",
+      "slot": "finger",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 784,
+      "name": "Touch of the Void",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [
+        { "currency": "darkmoon_prize_ticket", "amount": 50 }
+      ]
+    },
+    {
+      "id": 785,
+      "name": "Judgment of the Naaru",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "champions_seal", "amount": 20 }]
+    },
+    {
+      "id": 786,
+      "name": "Gronntooth War Horn",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 787,
+      "name": "Orb of Voidsight",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 788,
+      "name": "Infallible Tracking Charm",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 789,
+      "name": "Purified Shard of the Third Moon",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "Third Fleet",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 790,
+      "name": "Eagletalon Spear",
+      "slot": "two_hand",
+      "armor_type": "polearm",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 792,
+      "name": "Spear of Rethu",
+      "slot": "two_hand",
+      "armor_type": "polearm",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 797,
+      "name": "Man'ari Training Amulet",
+      "slot": "neck",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 901,
+      "name": "Stone Guard's Bladed Cloak",
+      "slot": "back",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [
+        { "currency": "honorbound_service_medal", "amount": 75 }
+      ]
+    },
+    {
+      "id": 902,
+      "name": "Banded Gilnean Cloak",
+      "slot": "back",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [
+        { "currency": "seventh_legion_service_medal", "amount": 75 }
+      ]
+    },
+    {
+      "id": 903,
+      "name": "Tidesages' Warscroll",
+      "slot": "neck",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [
+        { "currency": "seventh_legion_service_medal", "amount": 75 }
+      ]
+    },
+    {
+      "id": 904,
+      "name": "Loa-Touched Warscroll",
+      "slot": "neck",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [
+        { "currency": "honorbound_service_medal", "amount": 75 }
+      ]
+    },
+    {
+      "id": 905,
+      "name": "Deathstalkers' Gloaming Powder",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [
+        { "currency": "honorbound_service_medal", "amount": 75 }
+      ]
+    },
+    {
+      "id": 906,
+      "name": "Kaldorei Powder of Twilight",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [
+        { "currency": "seventh_legion_service_medal", "amount": 75 }
+      ]
+    },
+    {
+      "id": 907,
+      "name": "Orcish War Horn",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 908,
+      "name": "Dwarven War Horn",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 909,
+      "name": "Tome of Thalassian Hymns",
+      "slot": "off_hand",
+      "armor_type": "tome",
+      "set": "Thalassian Hymns",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 910,
+      "name": "Hymnal of the 7th Legion",
+      "slot": "off_hand",
+      "armor_type": "tome",
+      "set": "Thalassian Hymns",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 916,
+      "name": "Unstable Elemental Confluence",
+      "slot": "trinket",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 986,
+      "name": "Band of Radiant Echoes",
+      "slot": "finger",
+      "armor_type": "",
+      "set": "",
+      "is_weapon": false,
+      "purchase_options": [{ "currency": "gold", "amount": 0 }]
+    },
+    {
+      "id": 1062,
+      "name": "Sharpened Arcanite Warglaive",
+      "slot": "main_hand",
+      "armor_type": "sword",
+      "set": "",
+      "is_weapon": true,
+      "purchase_options": [
+        { "currency": "darkmoon_prize_ticket", "amount": 50 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+*.go.zip
+.DS_Store
+.env
+.safehouse
+.agents/
+.claude/
+build/
+mise.toml
+/go.work
+/go.work.sum
+/warchiver
+cmd/warchiver/feature_provider_warx.go
+internal/warxfeatures/provider.go

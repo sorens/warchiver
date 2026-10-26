@@ -1,6 +1,7 @@
 *.go.zip
 .DS_Store
 .env
+env.sh
 .safehouse
 .agents/
 .claude/

@@ -15,6 +15,7 @@ const (
 	LevelInfo
 	LevelDebug
 	LevelVerbose
+	LevelWarn
 )
 
 type Logger struct {
@@ -59,6 +60,8 @@ func NewJSON(w io.Writer, level Level) Logger {
 				slv = slog.LevelDebug
 			case LevelInfo:
 				slv = slog.LevelInfo
+			case LevelWarn:
+				slv = slog.LevelWarn
 			case LevelError:
 				fallthrough
 			default:
@@ -84,6 +87,8 @@ func FromSlog(ctx context.Context, logger *slog.Logger) Logger {
 				slv = slog.LevelDebug
 			case LevelInfo:
 				slv = slog.LevelInfo
+			case LevelWarn:
+				slv = slog.LevelWarn
 			default:
 				slv = slog.LevelError
 			}
@@ -103,6 +108,12 @@ func (l Logger) enabled(level Level) bool {
 func (l Logger) Info(format string, v ...any) {
 	if l.enabled(LevelInfo) {
 		l.emit(LevelInfo, "", fmt.Sprintf(format, v...))
+	}
+}
+
+func (l Logger) Warn(format string, v ...any) {
+	if l.emit != nil {
+		l.emit(LevelWarn, "WARN", fmt.Sprintf(format, v...))
 	}
 }
 

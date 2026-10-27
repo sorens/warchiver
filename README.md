@@ -80,6 +80,9 @@ OAuth scopes: `wow.profile openid`.
 
 Only `archive account` accepts `-minlvl`.
 
+Game directories use `retail`, `classic`, `classic1x`, or `classicann`, matching
+the archive's game identifiers. 
+
 ## Environment Variables
 
 | Variable | Purpose |

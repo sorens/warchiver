@@ -6,6 +6,7 @@ env.sh
 .agents/
 .claude/
 build/
+Makefile.private
 mise.toml
 /go.work
 /go.work.sum

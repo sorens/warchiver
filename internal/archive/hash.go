@@ -18,6 +18,7 @@ import (
 func HashManifest(m *Manifest) (string, error) {
 	hashableManifest := m.Copy()
 	hashableManifest.CreatedAt = time.Time{}
+	hashableManifest.Version = ""
 	// Item-cache metadata is operational state: entries gain last_seen times
 	// and new API variants may be discovered during any run. It must not make
 	// the user-data archive hash unstable.

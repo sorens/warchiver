@@ -17,6 +17,7 @@ type Character struct {
 // Request gives a provider the archive inputs and API-collected character data.
 type Request struct {
 	WorkDir     string
+	Region      string
 	ArchiveDir  string
 	ConfigDir   string
 	WowDir      string

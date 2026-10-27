@@ -191,6 +191,7 @@ func runOptionalFeatures(ctx context.Context, req Request, entries []*archive.Ch
 	}
 	input := features.Request{
 		WorkDir:     req.WorkDir,
+		Region:      defaultRegion(req.Region),
 		ArchiveDir:  archiveDir,
 		ConfigDir:   req.ConfigDir,
 		WowDir:      req.WowDir,
